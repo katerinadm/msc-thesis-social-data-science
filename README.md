@@ -1,2 +1,2 @@
 # msc-thesis-social-data-cience
-MSc thesis focusing on the evolution of the concept of intersectionality, as used by digital feminist cultures
+MSc thesis focusing on the evolution of the concept of "intersectionality", as used by digital feminist cultures fom 2013-2023. A digital mixed-methods study following the idea of computer-assisted text analysis. Combined word embeddings for semantic shift analysis (a method borrowed from digital humanities), network analysis, rule-based and theory-guided classification with the development of a codebook, and digital ethnography
